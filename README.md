@@ -1,8 +1,8 @@
 # Hello!
 
 - 👋 Hi, I’m @booukes
-- 👀 I’m interested in WPF, C, C# and photography
-- 🌱 I’m currently learning WPF with C#
+- 👀 I’m interested in music, astronomy and photography
+- 🌱 I’m currently learning WPF and Android development with Kotlin
 - 💞️ I’m looking to collaborate on antWriter
 - 📫 How to reach me: lukaszandrzejpilat@gmail.com
 - 😄 Pronouns: he/him
