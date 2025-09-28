@@ -1,13 +1,20 @@
-# Hello!
+# Hey there 👋, I'm Łukasz!
 
-- 👋 Hi, I’m @booukes
-- 👀 I’m interested in music, astronomy and photography
-- 🌱 I’m currently learning WPF and Android development with Kotlin
-- 💞️ I’m looking to collaborate on antWriter
-- 📫 How to reach me: lukaszandrzejpilat@gmail.com
-- 😄 Pronouns: he/him
+I'm a software developer diving deep into the **.NET ecosystem**, **Kotlin with Jetpack Compose** and modern web apps using Svelte.
 
-<!---
-booukes/booukes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## My Projects
+- **AntGNSS** – real-time satellite tracking & trajectory prediction using your phone's GNSS receiver.
+- **AntWriter** – a lightweight text editor with Zen mode & autosave. Perfect for poem & short texts writing in peace.  
+
+## Skills & Tools
+- Dekstop: .NET / C# / WPF
+- Web Dev: HTML, CSS, JS/TS with Svelte
+- Mobile: Kotlin, Jetpack Compose
+- Git, Github, Graphic design in Figma
+
+## Fun Facts
+- 📸 Photography lover  
+- 🌌 Astronomy enthusiast  
+- 💡 Always experimenting with new tech  
+
+Feel free to check out my projects or drop a ⭐ if you like what you see!
