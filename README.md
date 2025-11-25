@@ -9,7 +9,7 @@ I'm a software developer diving deep into the **.NET ecosystem**, **Kotlin with 
 
 ## Skills & Tools
 - Dekstop: .NET / C# / WPF / Tauri
-- Web Dev: HTML, CSS, JS/TS with Vue
+- Web Dev: HTML, CSS, JS/TS with Vue & Nuxt
 - Git, Github, Graphic design in Figma, 3D Modelling in Blender
 
 ## Fun Facts
