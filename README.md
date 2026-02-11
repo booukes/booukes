@@ -1,6 +1,6 @@
 # Hey there 👋, I'm Łukasz!
 
-I'm a software developer diving deep into the **.NET ecosystem**, **Kotlin with Jetpack Compose** and modern web apps using Svelte.
+I'm a software developer working with the **.NET ecosystem**, **Vue & Nuxt** and learning C.
 
 ## My Projects
 - **Youth2Youth** - a service for young people to share and learn about life skills and hobbys - Entry into the HackHeroes 2025 competition (collab)
@@ -10,11 +10,6 @@ I'm a software developer diving deep into the **.NET ecosystem**, **Kotlin with 
 ## Skills & Tools
 - Dekstop: .NET / C# / WPF / Tauri
 - Web Dev: HTML, CSS, JS/TS with Vue & Nuxt
-- Git, Github, Graphic design in Figma, 3D Modelling in Blender
-
-## Fun Facts
-- 📸 Photography lover  
-- 🌌 Astronomy enthusiast  
-- 💡 Always experimenting with new tech  
+- Git, Github, Graphic design in Figma, 3D Modelling in Blender, SCS Map tools
 
 Feel free to check out my projects or drop a ⭐ if you like what you see!
